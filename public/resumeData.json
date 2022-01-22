@@ -20,17 +20,17 @@
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/ismail-ozcelik/",
-        "className": "fab fa-linkedin"
+        "className": "fa fa-linkedin"
       },
       {
         "name": "github",
         "url": "https://github.com/ismailllozcelik",
-        "className": "fab fa-github"
+        "className": "fa fa-github"
       },
       {
         "name": "kaggle",
         "url": "https://www.kaggle.com/ismailhakkiozcelik",
-        "className": "fab fa-kaggle"
+        "className": "fa fa-code"
       }
      
     ]
