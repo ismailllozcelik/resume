@@ -2,7 +2,7 @@
 
 ![İsmail Hakkı Özçelik Resume](resume.png?raw=true "İsmail Hakkı Özçelik Resume ")
 
-### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
+### <a href="https://agitated-rosalind-92f57b.netlify.app">LIVE DEMO</a>
 
 ## Resume Starter Pack Description
 
