@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "İsmail H. Özçelik",
+    "occupation": "I'm a Senior Software Engineer",
+    "description": "I eat, sleep and breathe Angular, React, Machine Learning",
+    "image": "profilepic.png",
+    "bio": "Hi there! I am Ismail! I've been coding for over 8 years now. As I develop myself further in Javascript Frameworks, I want to create applications that will increase the UI / UX experiences of both users and software developers in the Front End with both Artificial Intelligence and Augmented Reality technologies.",
+    "contactmessage": "Get in touch with me",
+    "email": "bm.ismailozcelik@gmail.com",
+    "phone": "+90 5457396437",
+    "address": {
+      "street": "Necip Fazıl Mh.",
+      "city": "İstanbul",
+      "state": "Sultanbeyli",
+      "zip": "34925"
+    },
+    "website": "#",
+    "resumedownload": "https://github.com/ismailllozcelik",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ismail-ozcelik/",
+        "className": "fab fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ismailllozcelik",
+        "className": "fab fa-github"
+      },
+      {
+        "name": "kaggle",
+        "url": "https://www.kaggle.com/ismailhakkiozcelik",
+        "className": "fab fa-kaggle"
+      }
+     
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Sakarya University - TR",
+        "degree": "Bachelor's Degree, Faculty of Computer and Information Sciences Department of Computer Engineering",
+        "graduated": "June 2016",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "LC Waikiki",
+        "title": "Frontend Developer",
+        "years": "Feb 2020 - Aug 2020",
+        "description": "In the project called Atp (Workshop Tracking Project), we are developing an application that will monitor and partially manage the workshops, which we can partially consider as an Erp system. I am developing the frontend part of this application with Angular 8"
+      },
+      {
+        "company": "Adyouneed",
+        "title": "Frontend Developer",
+        "years": "Aug 2020 - Feb 2021",
+        "description": "We are developing an application about Marketing Automation. I'm interested in the frontend part."
+      },
+      {
+        "company": "LC Waikiki",
+        "title": "Software Specialist",
+        "years": "Mar 2021 - Present",
+        "description": "We are developing an essentially Erp system called ATP (Workshop Tracking Project) with a micro frontend architecture. I am interested in the frontend part of this beautiful application and we are developing it with Angular. I'm also trying to look at Devops, Rancher, Kibana, Grafana, Elastic Search. I started to take a more active role in 2 new projects. We are developing projects for suppliers, one of which is SRM project. I am also developing this in angular. The other project is TQM (Taha User Management). We do this with Angular 12, but I'm thinking of porting it to React. To be able to practice more there"
+      },
+      {
+        "company": "VBO",
+        "title": "Junior Data Scientist",
+        "years": "Aug 2021 - Dec 2021",
+        "description": "- PyCharm, Virtual Environment - CRM Analytics /KPI, Cohort, CLTV, Segmentation/ - BG-NBD: Expected Sales Forecasting - Gamma-Gamma:Expected Average Profit - RFM Analysis - Recommendation Systems *ARL, Collaborative Fil., MF* - Measurement Problems *AB Testing, Sorting* - Advanced Feature Engineering - Machine Learning - Regression & Classification - Demand Forecasting - Time Series Problems - NLP"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Angular",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "React Native",
+        "level": "50%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "40%"
+      },
+      {
+        "name": "Git",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Azure Devops",
+        "level": "65%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
